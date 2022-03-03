@@ -1,0 +1,24 @@
+,id,group,color
+0,TNK2,kinases present exclusively in this SC,#FF3359
+1,PDGFRB,kinases present exclusively in this SC,#FF3359
+2,MAPK1_3,kinases present exclusively in this SC,#FF3359
+3,MAP2K1,kinases present exclusively in this SC,#FF3359
+4,PRKCI,kinases present exclusively in this SC,#FF3359
+5,LATS1,kinases present in both SCs,#FFDB33
+6,PLK1,kinases present in both SCs,#FFDB33
+7,PRKACA,kinases present in both SCs,#FFDB33
+8,RPS6KB1,kinases present in both SCs,#FFDB33
+9,TTK,kinases present in both SCs,#FFDB33
+10,PAK3,kinases present in both SCs,#FFDB33
+11,MINK1,kinases present in both SCs,#FFDB33
+12,PIK3CB,kinases present in both SCs,#FFDB33
+13,YES1,kinases present in both SCs,#FFDB33
+14,PIK3CA,kinases present in both SCs,#FFDB33
+15,AKT1_2,kinases present in both SCs,#FFDB33
+16,CSNK1E,kinases present in both SCs,#FFDB33
+17,RPS6KA2,kinases present in both SCs,#FFDB33
+18,MTOR,kinases present in both SCs,#FFDB33
+19,MAP3K1,kinases present in both SCs,#FFDB33
+20,PRKACB,kinases present in both SCs,#FFDB33
+21,PAK1,kinases present in both SCs,#FFDB33
+22,STK4,kinases present in both SCs,#FFDB33
