@@ -1,24 +1,24 @@
-,id,group,color
-0,TNK2,kinases present exclusively in this SC,#FF3359
-1,PDGFRB,kinases present exclusively in this SC,#FF3359
-2,MAPK1_3,kinases present exclusively in this SC,#FF3359
-3,MAP2K1,kinases present exclusively in this SC,#FF3359
-4,PRKCI,kinases present exclusively in this SC,#FF3359
-5,LATS1,kinases present in both SCs,#FFDB33
-6,PLK1,kinases present in both SCs,#FFDB33
-7,PRKACA,kinases present in both SCs,#FFDB33
-8,RPS6KB1,kinases present in both SCs,#FFDB33
-9,TTK,kinases present in both SCs,#FFDB33
-10,PAK3,kinases present in both SCs,#FFDB33
-11,MINK1,kinases present in both SCs,#FFDB33
-12,PIK3CB,kinases present in both SCs,#FFDB33
-13,YES1,kinases present in both SCs,#FFDB33
-14,PIK3CA,kinases present in both SCs,#FFDB33
-15,AKT1_2,kinases present in both SCs,#FFDB33
-16,CSNK1E,kinases present in both SCs,#FFDB33
-17,RPS6KA2,kinases present in both SCs,#FFDB33
-18,MTOR,kinases present in both SCs,#FFDB33
-19,MAP3K1,kinases present in both SCs,#FFDB33
-20,PRKACB,kinases present in both SCs,#FFDB33
-21,PAK1,kinases present in both SCs,#FFDB33
-22,STK4,kinases present in both SCs,#FFDB33
+,id,group,color,community_strength
+0,TNK2,kinases present exclusively in this SC,#FF3359,8.14
+1,PRKCI,kinases present exclusively in this SC,#FF3359,2.36
+2,MAP2K1,kinases present exclusively in this SC,#FF3359,6.85
+3,PDGFRB,kinases present exclusively in this SC,#FF3359,1.95
+4,MAPK1_3,kinases present exclusively in this SC,#FF3359,2.75
+5,AKT1_2,kinases present in both SCs,#FFDB33,12.56
+6,PAK3,kinases present in both SCs,#FFDB33,6.13
+7,PIK3CA,kinases present in both SCs,#FFDB33,5.41
+8,PAK1,kinases present in both SCs,#FFDB33,3.86
+9,PRKACA,kinases present in both SCs,#FFDB33,8.25
+10,STK4,kinases present in both SCs,#FFDB33,2.21
+11,MINK1,kinases present in both SCs,#FFDB33,2.83
+12,PLK1,kinases present in both SCs,#FFDB33,2.21
+13,PIK3CB,kinases present in both SCs,#FFDB33,2.58
+14,MTOR,kinases present in both SCs,#FFDB33,7.82
+15,YES1,kinases present in both SCs,#FFDB33,1.69
+16,PRKACB,kinases present in both SCs,#FFDB33,3.46
+17,TTK,kinases present in both SCs,#FFDB33,3.32
+18,RPS6KB1,kinases present in both SCs,#FFDB33,2.49
+19,LATS1,kinases present in both SCs,#FFDB33,6.0
+20,RPS6KA2,kinases present in both SCs,#FFDB33,2.9
+21,MAP3K1,kinases present in both SCs,#FFDB33,1.74
+22,CSNK1E,kinases present in both SCs,#FFDB33,2.2

@@ -1,26 +1,26 @@
-,id,group,color
-0,CIT,kinases present exclusively in this SC,#FF3359
-1,CSNK1E,kinases present exclusively in this SC,#FF3359
-2,PRKCI,kinases present exclusively in this SC,#FF3359
-3,ABL1,kinases present exclusively in this SC,#FF3359
-4,LIMK1_2,kinases present exclusively in this SC,#FF3359
-5,PAK1,kinases present exclusively in this SC,#FF3359
-6,PAK3,kinases present exclusively in this SC,#FF3359
-7,PLK1,kinases present exclusively in this SC,#FF3359
-8,PIK3CA,kinases present exclusively in this SC,#FF3359
-9,TTK,kinases present exclusively in this SC,#FF3359
-10,MAP3K1,kinases present exclusively in this SC,#FF3359
-11,MAPK14,kinases present exclusively in this SC,#FF3359
-12,LATS1,kinases present exclusively in this SC,#FF3359
-13,TNK2,kinases present exclusively in this SC,#FF3359
-14,MAP4K5,kinases present exclusively in this SC,#FF3359
-15,MINK1,kinases present exclusively in this SC,#FF3359
-16,SRPK1,kinases present exclusively in this SC,#FF3359
-17,MTOR,kinases present exclusively in this SC,#FF3359
-18,AKT1_2,kinases present exclusively in this SC,#FF3359
-19,PRKACA,kinases present exclusively in this SC,#FF3359
-20,PIK3CB,kinases present exclusively in this SC,#FF3359
-21,PRKACB,kinases present exclusively in this SC,#FF3359
-22,MAPKAPK2,kinases present exclusively in this SC,#FF3359
-23,RPS6KB1,kinases present exclusively in this SC,#FF3359
-24,CDK2,kinases present in both SCs,#FFDB33
+,id,group,color,community_strength
+0,CIT,kinases present exclusively in this SC,#FF3359,18.75
+1,CSNK1E,kinases present exclusively in this SC,#FF3359,6.22
+2,PRKCI,kinases present exclusively in this SC,#FF3359,5.01
+3,ABL1,kinases present exclusively in this SC,#FF3359,8.86
+4,LIMK1_2,kinases present exclusively in this SC,#FF3359,30.72
+5,PAK1,kinases present exclusively in this SC,#FF3359,4.87
+6,PAK3,kinases present exclusively in this SC,#FF3359,11.87
+7,PLK1,kinases present exclusively in this SC,#FF3359,7.48
+8,PIK3CA,kinases present exclusively in this SC,#FF3359,45.47
+9,TTK,kinases present exclusively in this SC,#FF3359,28.07
+10,MAP3K1,kinases present exclusively in this SC,#FF3359,4.22
+11,MAPK14,kinases present exclusively in this SC,#FF3359,2.28
+12,LATS1,kinases present exclusively in this SC,#FF3359,14.0
+13,TNK2,kinases present exclusively in this SC,#FF3359,4.92
+14,MAP4K5,kinases present exclusively in this SC,#FF3359,4.47
+15,MINK1,kinases present exclusively in this SC,#FF3359,10.76
+16,SRPK1,kinases present exclusively in this SC,#FF3359,7.54
+17,MTOR,kinases present exclusively in this SC,#FF3359,27.88
+18,AKT1_2,kinases present exclusively in this SC,#FF3359,43.31
+19,PRKACA,kinases present exclusively in this SC,#FF3359,14.64
+20,PIK3CB,kinases present exclusively in this SC,#FF3359,8.56
+21,PRKACB,kinases present exclusively in this SC,#FF3359,7.08
+22,MAPKAPK2,kinases present exclusively in this SC,#FF3359,6.81
+23,RPS6KB1,kinases present exclusively in this SC,#FF3359,3.34
+24,CDK2,kinases present in both SCs,#FFDB33,5.15
