@@ -1,9 +1,9 @@
 ,id,group,color,community_strength
-0,TNK2,kinases present exclusively in this SC,#FF3359,8.14
-1,PRKCI,kinases present exclusively in this SC,#FF3359,2.36
-2,MAP2K1,kinases present exclusively in this SC,#FF3359,6.85
-3,PDGFRB,kinases present exclusively in this SC,#FF3359,1.95
-4,MAPK1_3,kinases present exclusively in this SC,#FF3359,2.75
+0,TNK2,kinases present exclusively in this SC,#96efff,8.14
+1,PRKCI,kinases present exclusively in this SC,#96efff,2.36
+2,MAP2K1,kinases present exclusively in this SC,#96efff,6.85
+3,PDGFRB,kinases present exclusively in this SC,#96efff,1.95
+4,MAPK1_3,kinases present exclusively in this SC,#96efff,2.75
 5,AKT1_2,kinases present in both SCs,#FFDB33,12.56
 6,PAK3,kinases present in both SCs,#FFDB33,6.13
 7,PIK3CA,kinases present in both SCs,#FFDB33,5.41
