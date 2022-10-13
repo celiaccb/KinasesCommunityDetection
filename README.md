@@ -1,1 +1,1 @@
-# Community detection in empirical phosphoproteomics-based kinase networks
+# Community detection in empirical phosphoproteomics kinase networks
