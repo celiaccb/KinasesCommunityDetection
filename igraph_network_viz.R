@@ -2,7 +2,6 @@
 library(igraph)
 library(tidyr)
 library(ggplot2)
-setwd("/Users/cccccbbbbb/Desktop")
 getwd()
 
 #NETWORK STATIC VISUALIZATIONS-------------------------------------------------------------------------------------
