@@ -13,7 +13,7 @@ network_names <- grep('edges', list.files(path = 'output_dataframes'), value=T)
 network_names <- gsub('_edges\\.csv', '', network_names)
 
 #Loop through each network
-for (network in network_names[3]){
+for (network in network_names){
 
   #Load edges data
   edges <- read.csv( paste0('output_dataframes/', network, '_edges.csv'), row.names = 1 )
