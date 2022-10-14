@@ -42,16 +42,16 @@ pip3 install pandas networkx scipy plotly pyvis statistics python-louvain matplo
 ```
 
 List of packages:
-	- pandas
-	- networkx
-	- NumPy (unless you have installed the Anaconda distribution of Python)
-	- SciPy
-	- plotly
-	- pyvis
-	- statistics
-	- louvain
-	- matplotlib
-	- scikit-network
+- pandas
+- networkx
+- NumPy (unless you have installed the Anaconda distribution of Python)
+- SciPy
+- plotly
+- pyvis
+- statistics
+- louvain
+- matplotlib
+- scikit-network
 
 ### R (optional)
 
