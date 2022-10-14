@@ -70,7 +70,7 @@ Only necessary if you want to reproduce the network visualizations from the arti
 All code necessary to construct networks from edges z-scores and identify kinase signalling networks can be found in the KinaseNetworks script, which is available as a jupyter notebook (KinaseNetworks.ipynb) or a python script (KinaseNetworks.py).
 
 The input for this script is the kinase-kinase interactions z-scores dataset generated from a quantitative phosphoproteomics dataset in the [previous step](##calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data). 
-See, for example, PROJECT_DATASET_2.csv in the input folder, which is used for the first [example analysis](##example-analyses), detailed under the '2 - Analysis and Results' section of KinaseNetworks.
+See, for example, PROJECT_DATASET_2.csv in the input folder, which is used for the first [example analysis](#example-analyses), detailed under the '2 - Analysis and Results' section of KinaseNetworks.
 
 ### Overview
 
@@ -84,14 +84,14 @@ The first section of this script ('1 - Functions') contains the four python func
 
 4. Run step 2 and step 3 for a number of iterations specified by the user, the function returns the kinases (if any) that are assigned to the same community as the kinase of interest in some iterations, but are assigned to a different community in other iterations (function *rep_check*).
 
-To see these functions applied to real-life datasets, see the [example analyses.](##example-analyses)
+To see these functions applied to real-life datasets, see the [example analyses.](#example-analyses)
 
 ### Running the script
 
 To run this script, clone this repository to GitHub Desktop or your command line, then open the repository in your command line.
 
 - You can access the jupyter notebook in your browser by running ```jupyter-notebook``` in your command line, then navigating to KinaseNetworks.ipynb
-- If you are only interested in reproducing the published analyses, you can run all functions at once by placing your cursor in the cell above '2 - Analysis and Results' and clicking Cell>Run All Above, then skip to [Example Analyses](##example-analyses).
+- If you are only interested in reproducing the published analyses, you can run all functions at once by placing your cursor in the cell above '2 - Analysis and Results' and clicking Cell>Run All Above, then skip to [Example Analyses](#example-analyses).
 
 - If you prefer to run the python script, simply run ```python KinaseNetworks.py``` on your command line.
 
@@ -101,7 +101,7 @@ To run this script, clone this repository to GitHub Desktop or your command line
 
 Phosphoproteomics data of P31/FUJ cells treated separately with the kinase inhibitors GDC0941, AZD5363, trametinib and GDC0994, whose main targets are PIK3CA, AKT1/2, MAP2K1 ans MAPK1/3, respectively (this data is not publicily available at the moment).
 
-Kinase-kinase interactions z-scores were calculated using KSEAR+ ( as [described above](##calculate-edges-z-scores-from-phosphoproteomics-data) ) on the phosphoproteomics data.
+Kinase-kinase interactions z-scores were calculated using KSEAR+ ( as [described above](#calculate-edges-z-scores-from-phosphoproteomics-data) ) on the phosphoproteomics data.
 
 The resulting z-scores file **PROJECT_DATASET_2.csv** can be found in the input folder in this repository.
 
@@ -115,7 +115,7 @@ In KinaseNetworks.ipynb, you can run this analysis by placing your cursor on the
 
 ## Graph visualizations
 
-For the [example analyses](##example-analyses) shown above, the communities of interest were visually represented as a graph in the [published manuscript](###manuscript).
+For the [example analyses](#example-analyses) shown above, the communities of interest were visually represented as a graph in the [published manuscript](#manuscript).
 
 You can reproduce these graphs by running the igraph_network_viz.R script (from RStudio):
 - If you have cloned the repository into GitHub Desktop, click on 'Repository' on your navigation bar, then click 'Open in RStudio'.
