@@ -101,7 +101,7 @@ To run this script, clone this repository to GitHub Desktop or your command line
 
 Phosphoproteomics data of P31/FUJ cells treated separately with the kinase inhibitors GDC0941, AZD5363, trametinib and GDC0994, whose main targets are PIK3CA, AKT1/2, MAP2K1 ans MAPK1/3, respectively (this data is not publicily available at the moment).
 
-Kinase-kinase interactions z-scores were calculated using KSEAR+ ( as [described above](#calculate-edges-z-scores-from-phosphoproteomics-data) ) on the phosphoproteomics data.
+Kinase-kinase interactions z-scores were calculated using KSEAR+ ( as [described above](#calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data-with-ksear) ) on the phosphoproteomics data.
 
 The resulting z-scores file **PROJECT_DATASET_2.csv** can be found in the input folder in this repository.
 
