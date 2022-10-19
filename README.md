@@ -1,6 +1,6 @@
 # Community detection in empirical kinase networks
 
-This repository contains the code to build empirical kinase networks and identify kinase signalling communities from phosphoproteomics data, as published in [placeholder].
+This repository contains the code to build empirical kinase networks and identify kinase signalling communities from quantitative phosphoproteomics data, as published in [placeholder].
 
 - [Contributors](#contributors)
 - [Prerequisites](#prerequisites)
