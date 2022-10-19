@@ -23,8 +23,8 @@ import community as community_louvain
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
 from sknetwork.clustering import Louvain
-import random
-import collections, functools, operator
+#import random
+import collections
 
 ## 1 - Functions
 
