@@ -28,6 +28,8 @@ We recommend that you run the pipeline by cloning this github repository, either
 
 ### KSEAR+
 
+⚠ KSEAR+ is not compatible with mac os operating systems at the moment
+
 Follow the instructions in the [KSEA_plus repository](https://github.com/CutillasLab/KSEA_plus) to install the KSEAR+ application.
 
 ### Python
@@ -63,7 +65,13 @@ Only necessary if you want to reproduce the network visualizations from the arti
 
 ## Calculate kinase-kinase interactions z-scores from phosphoproteomics data with KSEAR+
 
-[placeholder]
+After downloading the KSEAR+ executable from the [KSEA_plus github repository](https://github.com/CutillasLab/KSEA_plus), open the application in your computer, upload your [quantitative phosphoproteomics input](#quantitative-phosphoproteomics-input) and select the edges database.
+
+The application returns six data frames: 
+
+(1)z-scores (2)distance, (3)pvalues, (4)m, (5)q and (6) sites.
+
+
 
 ## Network construction and community detection in Python
 
