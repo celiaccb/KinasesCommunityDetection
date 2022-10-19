@@ -129,7 +129,7 @@ You can reproduce these graphs by running the igraph_network_viz.R script (from 
 
 ### Dataset for Example Analysis 2
 
-[placeholder]
+Cuesta R, Gritsenko MA, Petyuk VA, Shukla AK, Tsai CF, Liu T, McDermott JE, Holz MK. Phosphoproteome Analysis Reveals Estrogen-ER Pathway as a Modulator of mTOR Activity Via DEPTOR. Mol Cell Proteomics. 2019 Aug;18(8):1607-1618. doi: 10.1074/mcp.RA119.001506. Epub 2019 Jun 12. PMID: 31189691; PMCID: PMC6683011.
 
 ### KSEAR+
 
