@@ -1,0 +1,37 @@
+,id,group,color,community_strength
+0,ERN1,kinases present in both SCs,#FFDB33,4.920058386999998
+1,PAK3,kinases present in both SCs,#FFDB33,3.392122626
+2,MINK1,kinases present in both SCs,#FFDB33,4.258963534
+3,RPS6KA2,kinases present in both SCs,#FFDB33,6.7147696329999995
+4,CDK17,kinases present in both SCs,#FFDB33,1.938062724
+5,CAMK2G,kinases present in both SCs,#FFDB33,2.1057639590000004
+6,MAP2K1,kinases present in both SCs,#FFDB33,0.634548713
+7,MAPK1_3,kinases present in both SCs,#FFDB33,6.964102522
+8,IRAK1,kinases present in both SCs,#FFDB33,5.371770458000001
+9,CIT,kinases present in both SCs,#FFDB33,7.989217801
+10,PDGFRB,kinases present in both SCs,#FFDB33,5.928401253999999
+11,MAP4K5,kinases present in both SCs,#FFDB33,6.476307248999999
+12,TTK,kinases present in both SCs,#FFDB33,3.175659307
+13,TAOK3,kinases present in both SCs,#FFDB33,9.028225993
+14,CSNK1E,kinases present in both SCs,#FFDB33,3.2805899390000004
+15,ABL2,kinases present in both SCs,#FFDB33,3.8787725870000007
+16,CAMKK2,kinases present in both SCs,#FFDB33,8.549404433000001
+17,SRPK1,kinases present in both SCs,#FFDB33,7.112985541
+18,MAP4K4,kinases present in both SCs,#FFDB33,5.715553156999999
+19,YES1,kinases present in both SCs,#FFDB33,5.706602831
+20,KIT,kinases present in both SCs,#FFDB33,5.716119829999999
+21,SIK2,kinases present in both SCs,#FFDB33,1.6409986880000003
+22,MAPK14,kinases present in both SCs,#FFDB33,13.894565409
+23,ARAF,kinases present in both SCs,#FFDB33,7.134701959999998
+24,MAP3K1,kinases present in both SCs,#FFDB33,4.842367983000001
+25,PRKCI,kinases present in both SCs,#FFDB33,4.485659237
+26,SRPK3,kinases present in both SCs,#FFDB33,5.232984206
+27,ROCK1_2,kinases present in both SCs,#FFDB33,9.156961199000001
+28,MELK,kinases present in both SCs,#FFDB33,2.187128967
+29,CDK9,kinases present exclusively in this SC,#96efff,2.9533023510000005
+30,CAMK2D,kinases present exclusively in this SC,#96efff,3.1429332600000004
+31,PLK1,kinases present exclusively in this SC,#96efff,2.689245314
+32,CDK4,kinases present exclusively in this SC,#96efff,1.8121127549999998
+33,PRKACA,kinases present exclusively in this SC,#96efff,4.537596107000001
+34,LATS1,kinases present exclusively in this SC,#96efff,0.713096127
+35,PHKG2,kinases present exclusively in this SC,#96efff,1.996839131

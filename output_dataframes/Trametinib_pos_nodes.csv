@@ -1,0 +1,28 @@
+,id,group,color,community_strength
+0,ERN1,kinases present in both SCs,#FFDB33,6.253577642999999
+1,PAK3,kinases present in both SCs,#FFDB33,2.2753524480000005
+2,RPS6KA2,kinases present in both SCs,#FFDB33,3.0812263230000005
+3,CDK2,kinases present in both SCs,#FFDB33,3.211916159
+4,PLK1,kinases present in both SCs,#FFDB33,1.3564407690000002
+5,MAPK1_3,kinases present in both SCs,#FFDB33,2.891854273
+6,IRAK1,kinases present in both SCs,#FFDB33,3.9001859839999997
+7,CIT,kinases present in both SCs,#FFDB33,6.240318058
+8,PDGFRB,kinases present in both SCs,#FFDB33,5.050661001
+9,MAP4K5,kinases present in both SCs,#FFDB33,4.902484281000001
+10,TTK,kinases present in both SCs,#FFDB33,4.810428088999999
+11,TAOK3,kinases present in both SCs,#FFDB33,6.318588894999999
+12,CSNK1E,kinases present in both SCs,#FFDB33,6.485268469000001
+13,CAMKK2,kinases present in both SCs,#FFDB33,4.045189216
+14,SRPK1,kinases present in both SCs,#FFDB33,3.953093806000001
+15,MAP4K4,kinases present in both SCs,#FFDB33,4.474679619999999
+16,YES1,kinases present in both SCs,#FFDB33,5.129232511
+17,KIT,kinases present in both SCs,#FFDB33,2.991298266
+18,ARAF,kinases present in both SCs,#FFDB33,5.443400916
+19,MAPK14,kinases present in both SCs,#FFDB33,8.410478848999999
+20,MAP3K1,kinases present in both SCs,#FFDB33,6.884333031
+21,PRKCI,kinases present in both SCs,#FFDB33,2.868768784
+22,SRPK3,kinases present in both SCs,#FFDB33,3.6451760029999996
+23,MAPK9,kinases present in both SCs,#FFDB33,1.9379901400000001
+24,ROCK1_2,kinases present in both SCs,#FFDB33,3.7602938359999993
+25,CDK4,kinases present in both SCs,#FFDB33,5.527034756
+26,MINK1,kinases present exclusively in this SC,#96efff,3.8759703360000004

@@ -1,0 +1,38 @@
+,id,group,color,community_strength
+0,ERN1,kinases present in both SCs,#FFDB33,8.654995101999999
+1,PAK3,kinases present in both SCs,#FFDB33,6.0885088320000005
+2,RPS6KA2,kinases present in both SCs,#FFDB33,5.879611463999999
+3,CDK2,kinases present in both SCs,#FFDB33,4.346877393
+4,PLK1,kinases present in both SCs,#FFDB33,6.589001668
+5,MAPK1_3,kinases present in both SCs,#FFDB33,1.7528294059999998
+6,IRAK1,kinases present in both SCs,#FFDB33,5.118193620999999
+7,CIT,kinases present in both SCs,#FFDB33,10.008511548
+8,PDGFRB,kinases present in both SCs,#FFDB33,3.9647088649999995
+9,MAP4K5,kinases present in both SCs,#FFDB33,7.727614237
+10,TTK,kinases present in both SCs,#FFDB33,3.476586811
+11,TAOK3,kinases present in both SCs,#FFDB33,8.757284845
+12,CSNK1E,kinases present in both SCs,#FFDB33,6.854659224999999
+13,CAMKK2,kinases present in both SCs,#FFDB33,7.556479973999998
+14,SRPK1,kinases present in both SCs,#FFDB33,4.605220893
+15,MAP4K4,kinases present in both SCs,#FFDB33,2.901784691
+16,YES1,kinases present in both SCs,#FFDB33,3.8589815119999997
+17,KIT,kinases present in both SCs,#FFDB33,3.149712473
+18,ARAF,kinases present in both SCs,#FFDB33,12.766333246000002
+19,MAPK14,kinases present in both SCs,#FFDB33,7.6417887659999995
+20,MAP3K1,kinases present in both SCs,#FFDB33,3.8980759030000005
+21,PRKCI,kinases present in both SCs,#FFDB33,11.236983024999997
+22,SRPK3,kinases present in both SCs,#FFDB33,5.696885522
+23,MAPK9,kinases present in both SCs,#FFDB33,2.106046512
+24,ROCK1_2,kinases present in both SCs,#FFDB33,6.436332104000001
+25,CDK4,kinases present in both SCs,#FFDB33,2.515709708
+26,CDK9,kinases present exclusively in this SC,#96efff,3.6801911530000004
+27,ABL1,kinases present exclusively in this SC,#96efff,3.2562985210000006
+28,PAK1,kinases present exclusively in this SC,#96efff,7.464135785999999
+29,PIK3CB,kinases present exclusively in this SC,#96efff,2.2563528760000002
+30,LATS1,kinases present exclusively in this SC,#96efff,3.2610620540000004
+31,TNK2,kinases present exclusively in this SC,#96efff,2.6516052510000003
+32,PIK3CA,kinases present exclusively in this SC,#96efff,2.9854292780000002
+33,STK3,kinases present exclusively in this SC,#96efff,2.3590480659999997
+34,PAK4,kinases present exclusively in this SC,#96efff,3.0629128520000006
+35,PRKACA,kinases present exclusively in this SC,#96efff,2.0987412460000003
+36,RPS6KA4,kinases present exclusively in this SC,#96efff,2.420931280999999

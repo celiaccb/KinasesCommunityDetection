@@ -1,0 +1,34 @@
+,id,group,color,community_strength
+0,ERN1,kinases present in both SCs,#FFDB33,5.8995493880000005
+1,PAK3,kinases present in both SCs,#FFDB33,0.94681954
+2,MINK1,kinases present in both SCs,#FFDB33,5.116881005
+3,RPS6KA2,kinases present in both SCs,#FFDB33,4.916200310000001
+4,CDK17,kinases present in both SCs,#FFDB33,1.546035452
+5,CAMK2G,kinases present in both SCs,#FFDB33,1.138189988
+6,MAP2K1,kinases present in both SCs,#FFDB33,0.6748302549999999
+7,MAPK1_3,kinases present in both SCs,#FFDB33,6.3558124430000005
+8,IRAK1,kinases present in both SCs,#FFDB33,2.0075505049999998
+9,CIT,kinases present in both SCs,#FFDB33,3.8364308769999993
+10,PDGFRB,kinases present in both SCs,#FFDB33,5.908986135
+11,MAP4K5,kinases present in both SCs,#FFDB33,4.154240757
+12,TTK,kinases present in both SCs,#FFDB33,3.810473307
+13,TAOK3,kinases present in both SCs,#FFDB33,4.033205594
+14,CSNK1E,kinases present in both SCs,#FFDB33,3.640301377
+15,ABL2,kinases present in both SCs,#FFDB33,1.3014038270000001
+16,CAMKK2,kinases present in both SCs,#FFDB33,4.132813670000001
+17,SRPK1,kinases present in both SCs,#FFDB33,6.426671229999999
+18,MAP4K4,kinases present in both SCs,#FFDB33,4.822182564
+19,YES1,kinases present in both SCs,#FFDB33,4.729939679999999
+20,KIT,kinases present in both SCs,#FFDB33,2.804540275
+21,SIK2,kinases present in both SCs,#FFDB33,1.108472513
+22,MAPK14,kinases present in both SCs,#FFDB33,7.198111164
+23,ARAF,kinases present in both SCs,#FFDB33,5.340379432
+24,MAP3K1,kinases present in both SCs,#FFDB33,6.9396277820000005
+25,PRKCI,kinases present in both SCs,#FFDB33,1.86000466
+26,SRPK3,kinases present in both SCs,#FFDB33,1.971285565
+27,ROCK1_2,kinases present in both SCs,#FFDB33,2.93780503
+28,MELK,kinases present in both SCs,#FFDB33,2.175492395
+29,STK4,kinases present exclusively in this SC,#96efff,3.166620451
+30,TNK2,kinases present exclusively in this SC,#96efff,2.920474894
+31,PAK1,kinases present exclusively in this SC,#96efff,1.9331967720000003
+32,STK3,kinases present exclusively in this SC,#96efff,1.4449947269999999
