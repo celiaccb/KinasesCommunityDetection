@@ -13,7 +13,7 @@ This repository contains the code to build empirical kinase networks and identif
 
 ## Contributors
 
-All code in this repository was developed by [Celia Colomina Basanta](https://github.com/celiaccb) in collaboration with [Marya Bazzi](https://github.com/MBazzi).
+All code in this repository was developed by [Celia Colomina Basanta](https://github.com/celiaccb) in collaboration with Marya Bazzi.
 
 If you have any question regarding the computational analyses, you can raise an issue in this repository or contact [Celia Colomina Basanta](mailto:celiacolominab@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
 
