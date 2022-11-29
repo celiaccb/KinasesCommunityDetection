@@ -17,9 +17,6 @@ All code in this repository was developed by [Celia Colomina Basanta](https://gi
 
 If you have any question regarding the computational analyses, you can raise an issue in this repository or contact [Celia Colomina Basanta](mailto:celiacolominab@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
 
-- [Marya Bazzi](https://github.com/MBazzi)
-- [Celia Colomina Basanta](https://github.com/celiaccb)
-
 The [KSEAR+](https://github.com/CutillasLab/KSEA_plus) computational tool used to calculate the kinase-kinase interactions z-scores that serve as input for the pipeline was developed by [Pedro R. Cutillas group](https://github.com/CutillasLab).
 
 ## Prerequisites
