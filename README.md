@@ -35,24 +35,22 @@ Follow the instructions in the [KSEA_plus repository](https://github.com/Cutilla
 
 Download Python 3 ([macOS](https://www.python.org/downloads/macos/), [Windows](https://www.python.org/downloads/windows/), [Linux/UNIX](https://www.python.org/downloads/source/), [others](https://www.python.org/download/other/))
 
-If you want to run the jupyter notebook version of this pipeline (KinaseNetworks.ipynb), install [jupyter notebook.](https://jupyter.org/install)
+In order to run the jupyter notebook of this pipeline (KinaseNetworks.ipynb), install [jupyter notebook.](https://jupyter.org/install)
 
-The python packages listed below need to be installed prior to running the code in this repository. You can install all at once by running the following line on your command line (note that you need to have installed Python 3 first):
-```
-pip3 install pandas networkx scipy plotly pyvis statistics python-louvain matplotlib scikit-network
-```
+The python packages listed in the 'requirements.txt' need to be installed prior to running the code in this repository. Make sure that:
 
-List of packages:
-- pandas
-- networkx
-- NumPy (unless you have installed the Anaconda distribution of Python)
-- SciPy
-- plotly
-- pyvis
-- statistics
-- louvain
-- matplotlib
-- scikit-network
+- You have installed Python 3
+- In the terminal, you are in your cloned branch of this repository (i.e. in GitHub Desktop make sure 'Current Repository' is set to 'KinasesCommunityDetection', 'Current Branch' is set to your cloned branch, then in your desktop menu bar click 'Repository' > 'Open in Terminal'
+
+You can install all at once by running the following line on your command line:
+
+```
+pip install -r requirements.txt
+```
+or if you have pip3 instead of pip:
+```
+pip3 install -r requirements.txt
+```
 
 <!-- ### R (optional)
 
