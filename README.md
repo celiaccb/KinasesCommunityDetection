@@ -98,7 +98,7 @@ For the following analyses you only need to save the (1)z-scores dataset as a cs
 
 ## Network construction and community detection in Python
 
-All code necessary to construct networks from edges z-scores and identify kinase signalling networks can be found in the KinaseNetworks script, which is available as a jupyter notebook titled 'KinaseNetworks.ipynb'.
+All code necessary to construct networks from edges z-scores and identify kinase signalling networks can be found in the jupyter notebook titled 'KinaseNetworks.ipynb'.
 
 The input for this script is the kinase-kinase interactions z-scores dataset generated from a quantitative phosphoproteomics dataset in the [previous step](##calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data). 
 See, for example, PROJECT_DATASET_2.csv in the input folder, which is used for the first [example analysis](#example-analyses), detailed under the '2 - Analysis and Results' section of KinaseNetworks.
