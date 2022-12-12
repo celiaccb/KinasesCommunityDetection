@@ -4,7 +4,7 @@ This repository contains the code to build empirical kinase networks and identif
 
 - [Contributors](#contributors)
 - [Prerequisites](#prerequisites)
-- [Comparative wuantitative phosphoproteomics input](#comparative-quantitative-phosphoproteomics-input)
+- [Comparative quantitative phosphoproteomics input](#comparative-quantitative-phosphoproteomics-input)
 - [Calculate kinase-kinase interactions z-scores from phosphoproteomics data with KSEAR+](#calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data-with-ksear)
 - [Network construction and community detection in Python](#network-construction-and-community-detection-in-python)
 - [Example Analyses](#example-analyses)
@@ -58,7 +58,7 @@ Only necessary if you want to reproduce the network visualizations from the arti
 
 ## Comparative quantitative phosphoproteomics input
 
-[KSEAR+](#calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data-with-ksear) calculates the difference in activity of pairwise kinase interactions based on the overall phosphorylation changes in treatment compared to control of the phosphosites that are identified of said pairwise kinase interactions.
+[KSEAR+](#calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data-with-ksear) calculates the difference in the activity of pairwise kinase interactions -based on the overall phosphorylation changes of the pairwise kinase interactions putative downstream targets- in treatment compared to control.
 
 See **144972_1_supp_335636_prw1dz_csv.csv** in the input folder of this repository for an example of the correct formatting for the comparative quantitative phosphoproteomics dataset to be considered a correct input by KSEAR+
 
@@ -98,7 +98,7 @@ For the following analyses you only need to save the (1)z-scores dataset as a cs
 
 ## Network construction and community detection in Python
 
-All code necessary to construct networks from edges z-scores and identify kinase signalling networks can be found in the KinaseNetworks script, which is available as a jupyter notebook (KinaseNetworks.ipynb) or a python script (KinaseNetworks.py).
+All code necessary to construct networks from edges z-scores and identify kinase signalling networks can be found in the KinaseNetworks script, which is available as a jupyter notebook titled 'KinaseNetworks.ipynb'.
 
 The input for this script is the kinase-kinase interactions z-scores dataset generated from a quantitative phosphoproteomics dataset in the [previous step](##calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data). 
 See, for example, PROJECT_DATASET_2.csv in the input folder, which is used for the first [example analysis](#example-analyses), detailed under the '2 - Analysis and Results' section of KinaseNetworks.
