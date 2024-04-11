@@ -1,6 +1,6 @@
 # Community detection in empirical kinase networks
 
-This repository contains the code to build empirical kinase networks and identify kinase signalling communities from quantitative phosphoproteomics data, as published in [PLOS Computational Biology, 2023 (DOI:10.1371/journal.pcbi.1010459)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459) .
+This repository contains the code to build empirical kinase networks and identify kinase signalling communities from quantitative phosphoproteomics data, as described in [Basanta, C.D. et al. (2023) PLOS Computational Biology, 19(6)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459).
 
 - [Contributors](#contributors)
 - [Prerequisites](#prerequisites)
@@ -164,15 +164,15 @@ You can reproduce these graphs by running the igraph_network_viz.R script (from 
 
 ### Manuscript
 
-Basanta CD, Bazzi M, Hijazi M, Bessant C, Cutillas PR. Community detection in empirical kinase networks identifies new potential members of signalling pathways. PLOS Computational Biology. 2023 Jun 23;19(6):e1010459. [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459)
+Basanta CD, Bazzi M, Hijazi M, Bessant C, Cutillas PR. Community detection in empirical kinase networks identifies new potential members of signalling pathways. PLOS Computational Biology. 2023 Jun 23;19(6):e1010459. doi: [10.1371/journal.pcbi.1010459](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459)
 
 
 ### Dataset for Example Analysis 2
 
-Cuesta R, Gritsenko MA, Petyuk VA, Shukla AK, Tsai CF, Liu T, McDermott JE, Holz MK. Phosphoproteome Analysis Reveals Estrogen-ER Pathway as a Modulator of mTOR Activity Via DEPTOR. Mol Cell Proteomics. 2019 Aug;18(8):1607-1618. doi: 10.1074/mcp.RA119.001506. Epub 2019 Jun 12. PMID: 31189691; PMCID: PMC6683011.
+Cuesta R, Gritsenko MA, Petyuk VA, Shukla AK, Tsai CF, Liu T, McDermott JE, Holz MK. Phosphoproteome Analysis Reveals Estrogen-ER Pathway as a Modulator of mTOR Activity Via DEPTOR. Mol Cell Proteomics. 2019 Aug;18(8):1607-1618. doi: [10.1074/mcp.RA119.001506](https://www.mcponline.org/article/S1535-9476(20)34061-5/fulltext). Epub 2019 Jun 12. PMID: 31189691; PMCID: PMC6683011.
 
 ### KSEAR+ publications
 
-Casado P, Rodriguez-Prados JC, Cosulich SC, Guichard S, Vanhaesebroeck B, Joel S, Cutillas PR. Kinase-substrate enrichment analysis provides insights into the heterogeneity of signaling pathway activation in leukemia cells. Sci Signal. 2013 Mar 26;6(268):rs6. doi: 10.1126/scisignal.2003573. PMID: 23532336.
+Casado P, Rodriguez-Prados JC, Cosulich SC, Guichard S, Vanhaesebroeck B, Joel S, Cutillas PR. Kinase-substrate enrichment analysis provides insights into the heterogeneity of signaling pathway activation in leukemia cells. Sci Signal. 2013 Mar 26;6(268):rs6. doi: [10.1126/scisignal.2003573](https://www.science.org/doi/10.1126/scisignal.2003573?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). PMID: 23532336.
 
-Casado P., Hijazi M., Gerdes H., Cutillas P.R. (2022) Implementation of Clinical Phosphoproteomics and Proteomics for Personalized Medicine. In: Corrales F.J., Paradela A., Marcilla M. (eds) Clinical Proteomics. Methods in Molecular Biology, vol 2420. Humana, New York, NY. [https://doi.org/10.1007/978-1-0716-1936-0_8](https://doi.org/10.1007/978-1-0716-1936-0_8)
+Casado P., Hijazi M., Gerdes H., Cutillas P.R. (2022) Implementation of Clinical Phosphoproteomics and Proteomics for Personalized Medicine. In: Corrales F.J., Paradela A., Marcilla M. (eds) Clinical Proteomics. Methods in Molecular Biology, vol 2420. Humana, New York, NY. doi: [10.1007/978-1-0716-1936-0_8](https://doi.org/10.1007/978-1-0716-1936-0_8)
