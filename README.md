@@ -164,7 +164,7 @@ You can reproduce these graphs by running the igraph_network_viz.R script (from 
 
 ### Manuscript
 
-[placeholder]
+Basanta CD, Bazzi M, Hijazi M, Bessant C, Cutillas PR. Community detection in empirical kinase networks identifies new potential members of signalling pathways. PLOS Computational Biology. 2023 Jun 23;19(6):e1010459. [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459)
 
 
 ### Dataset for Example Analysis 2
