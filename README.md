@@ -8,7 +8,6 @@ This repository contains the code to build empirical kinase networks and identif
 - [Calculate kinase-kinase interactions z-scores from phosphoproteomics data with KSEAR+](#calculate-kinase-kinase-interactions-z-scores-from-phosphoproteomics-data-with-ksear)
 - [Network construction and community detection in Python](#network-construction-and-community-detection-in-python)
 - [Example Analyses](#example-analyses)
-- [Graph visualizations](#graph-visualizations)
 - [References](#references)
 
 ## Contributors
@@ -68,33 +67,18 @@ After downloading the KSEAR+ executable from the [KSEA_plus github repository](h
 
 The application returns six data frames: 
 
-(1)z-scores 
+| Dataframe        | Description    
+| ------------- |:-------------| 
+| **z-scores**      | **The difference in the overall activity of kinase pairwise interactions in treatment compared to the control, as calculated based on the phosphorylation changes of its mapped substrates, using the [KSEA](#ksear-publications) method.** | 
+| distance      | The difference in the overall activity of kinase pairwise interactions in treatment compared to the control, as calculated alternatively by simply getting the median of the phosphorylation changes of phosphosites in the kinase group minus the median of all sites. |
+| pvalues | The z-score p-value. |  
+| m | The number of phosphosites in the [comparative quantitative phosphoproteomics input](#comparative-quantitative-phosphoproteomics-input) that were identified as substrates of the pairwise kinase interaction, and based on which the z-score was calculated. |
+| q | The number of substrates (see m above) that are high in expression. |
+| sites | The list of matched substrates for the pairwise kinase interaction (see dataframe m). |
 
-The difference in the overall activity of kinase pairwise interactions in treatment compared to the control, as calculated based on the phosphorylation changes of its mapped substrates, using the [KSEA](#ksear-publications) method 
+For more in-depth descriptions, see the [KSEA publications](#ksear-publications).
 
-(2)distance
-
-The difference in the overall activity of kinase pairwise interactions in treatment compared to the control, as calculated alternatively by simply getting the median of the phosphorylation changes of phosphosites in the kinase group minus the median of all sites
-
-(3)pvalues 
-
-The z-score p-value
-
-(4)m
-
-The number of phosphosites in the [comparative quantitative phosphoproteomics input](#comparative-quantitative-phosphoproteomics-input) that were identified as substrates of the pairwise kinase interaction, and based on which the z-score was calculated.
-
-(5)q
-
-The number of substrates (see m above) that are high in expression.
-
-(6) sites
-
-The list of matched substrates for the pairwise kinase interaction (see (4) m).
-
-For more in-depth explanations, see the [KSEA publications](#ksear-publications).
-
-For the following analyses you only need to save the (1)z-scores dataset as a csv (only csv will work with the code), see the **PROJECT_DATASET_2.csv** from [example 1](#example-analyses) in the input folder of this repository, or **example2_edges_zscores.csv** from [example2](#example-analyses) in the the input folder of this repository for examples of how your saved csv should look like.
+For the following analyses you only need to save the **z-scores** dataset as a csv (only csv will work with the code), see the **PROJECT_DATASET_2.csv** from [example 1](#example-analyses) in the input folder of this repository, or **example2_edges_zscores.csv** from [example2](#example-analyses) in the the input folder of this repository for examples of how your saved csv should look like.
 
 ## Network construction and community detection in Python
 
@@ -142,8 +126,6 @@ We constructed negative networks (constructed based on the kinase pairwise inter
 
 <!-- In KinaseNetworks.ipynb, you can run this analysis by placing your cursor on the last cell of section 2.5, then click Cell>Run All Above, which will return the following outputs: -->
 
-[placeholder]
-
 ### 2 - Oestrogen receptor positive breast cancer cells treated with mTOR inhibitor rapamycin and oestrogen
 
 [Cuesta et al. (2019)](#dataset-for-example-analysis-2) performed a phosphoproteome analysis of ER-positive MCF7 breast cancer cells treated with estrogen or oestrogen and the mTORC1 inhibitor rapamycin. They calculated the fold difference in the phosphorylation levels of ~9500 phosphosites in MCF7 cells treated with oestrogen and the mTORC1 inhibitor rapamycin compared to untreated MCF7 cells, which can be found in their Supplemental Data as **144972_1_supp_335636_prw1dz.xlsx**, and in the input folder of this repository as **144972_1_supp_335636_prw1dz_csv.csv**.
@@ -152,9 +134,8 @@ We calculated the z-scores of kinase pairwise interactions representative of the
 
 We constructed a network based on the kinase pairwise interactions with a negative z-score, which in this case means their activity is calculated to be decreased in treatment compared to control, and identified tight-knit communities of kinases from it, as shown in the Examples section of the **KinaseNetworks.ipynb** jupyter notebook in this repository.
 
-## Graph visualizations
-
-<!-- For the [example analyses](#example-analyses) shown above, the communities of interest were visually represented as a graph in the [published manuscript](#manuscript).
+<!-- ## Graph visualizations
+ For the [example analyses](#example-analyses) shown above, the communities of interest were visually represented as a graph in the [published manuscript](#manuscript).
 
 You can reproduce these graphs by running the igraph_network_viz.R script (from RStudio):
 - If you have cloned the repository into GitHub Desktop, click on 'Repository' on your navigation bar, then click 'Open in RStudio'.
